@@ -9,3 +9,6 @@ Retain words for matching and comparison, and count them;
 ⚫  Output two table files: reserved words and their counts, and non reserved words and their counts;
 
 ⚫  Output the number of scans and the time taken for scanning the source file.
+
+As shown in the figure, output table file: reserved words and their counts.
+![image](https://github.com/user-attachments/assets/8c4a7881-17d3-425b-832b-da85ea30bce6)
